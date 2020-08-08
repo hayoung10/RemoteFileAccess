@@ -1,0 +1,11 @@
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\bin\Debug\PacketServer.exe.config
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\bin\Debug\PacketServer.exe
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\bin\Debug\PacketServer.pdb
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\bin\Debug\ClassLibrary1.dll
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\bin\Debug\ClassLibrary1.pdb
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.csprojResolveAssemblyReference.cache
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.Form1.resources
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.Properties.Resources.resources
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.csproj.GenerateResource.Cache
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.exe
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.pdb

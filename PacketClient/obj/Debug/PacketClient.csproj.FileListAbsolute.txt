@@ -1,0 +1,12 @@
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketClient\bin\Debug\PacketClient.exe.config
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketClient\bin\Debug\PacketClient.exe
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketClient\bin\Debug\PacketClient.pdb
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketClient\bin\Debug\ClassLibrary1.dll
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketClient\bin\Debug\ClassLibrary1.pdb
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketClient\obj\Debug\PacketClient.Form1.resources
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketClient\obj\Debug\PacketClient.DetailForm.resources
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketClient\obj\Debug\PacketClient.Properties.Resources.resources
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketClient\obj\Debug\PacketClient.csproj.GenerateResource.Cache
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketClient\obj\Debug\PacketClient.exe
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketClient\obj\Debug\PacketClient.pdb
+C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketClient\obj\Debug\PacketClient.csprojResolveAssemblyReference.cache
