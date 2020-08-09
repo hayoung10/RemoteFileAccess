@@ -3,3 +3,8 @@ C:\Users\문하영\Documents\Visual Studio 2015\Projects\ClassLibrary1\bin\Debug
 C:\Users\문하영\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
 C:\Users\문하영\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\문하영\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -45,7 +45,7 @@ namespace PacketServer
             {
                 this.txt_path.Text = fbd.SelectedPath; // folder browser dialog으로 선택한 경로 textbox에 삽입
                 CurrentPath = this.txt_path.Text;
-                this.txt_log.AppendText(fbd.SelectedPath + "로 경로가 수정되었습니다.\n"); // log 창에 선택한 경로 출력
+                this.txt_log.AppendText(fbd.SelectedPath + "로 경로가 수정되었습니다." + Environment.NewLine); // log 창에 선택한 경로 출력
                 m_path = true;
             }
         }
@@ -68,7 +68,7 @@ namespace PacketServer
             {
                 this.Invoke(new MethodInvoker(delegate ()
                 {
-                    this.txt_log.AppendText("클라이언트 접속 대기중...\n");
+                    this.txt_log.AppendText("클라이언트 접속 대기중..." + Environment.NewLine);
                 }));
                 this.btn_svr.Text = "서버끊기"; // "서버켜기" 버튼 클릭 시 -> 텍스트 "서버끊기"로 바꾸기
                 this.btn_svr.ForeColor = Color.Red;
@@ -81,7 +81,7 @@ namespace PacketServer
                 this.m_bClientOn = true;
                 this.Invoke(new MethodInvoker(delegate ()
                 {
-                    this.txt_log.AppendText("클라이언트 접속\n");
+                    this.txt_log.AppendText("클라이언트 접속" + Environment.NewLine);
                 }));
                 m_networkstream = client.GetStream(); // 클라이언트 스트림 가져오기
             }
@@ -113,7 +113,7 @@ namespace PacketServer
                                 this.m_initializeClass = (Initialize)Packet.Desserialize(this.readBuffer);
                                 this.Invoke(new MethodInvoker(delegate ()
                                 {
-                                    this.txt_log.AppendText(this.m_initializeClass.buffer + "\n"); // log창에 메시지 출력
+                                    this.txt_log.AppendText(this.m_initializeClass.buffer + Environment.NewLine); // log창에 메시지 출력
                                 }));
                                 Initialize Path = new Initialize();
                                 Path.Type = (int)PacketType.초기화;
@@ -135,12 +135,12 @@ namespace PacketServer
 
                                     if (this.m_browserClass.num == 2) // beforeSelect일 경우
                                     {
-                                        this.txt_log.AppendText(this.m_browserClass.message + "\n"); // log창에 메시지 출력
+                                        this.txt_log.AppendText(this.m_browserClass.message + Environment.NewLine); // log창에 메시지 출력
                                         Brows.fi = dir.GetFiles(); // 하위 파일 탐색 결과 보내기
                                     }
                                     else if (this.m_browserClass.num == 1) // beforeExpand일 경우
                                     {
-                                        this.txt_log.AppendText(this.m_browserClass.message + "\n"); // log창에 메시지 출력
+                                        this.txt_log.AppendText(this.m_browserClass.message + Environment.NewLine); // log창에 메시지 출력
                                     }
                                     Packet.Serialize(Brows).CopyTo(this.sendBuffer, 0);
                                     this.Send(); // 버퍼 보내기
@@ -152,7 +152,7 @@ namespace PacketServer
                                 this.m_detailClass = (Detail)Packet.Desserialize(this.readBuffer);
                                 this.Invoke(new MethodInvoker(delegate ()
                                {
-                                   this.txt_log.AppendText(this.m_detailClass.message + "\n"); // log창에 메시지 출력
+                                   this.txt_log.AppendText(this.m_detailClass.message + Environment.NewLine); // log창에 메시지 출력
                                }));
                                 break;
                             }

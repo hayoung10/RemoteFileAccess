@@ -9,3 +9,17 @@ C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\
 C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.csproj.GenerateResource.Cache
 C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.exe
 C:\Users\문하영\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.pdb
+C:\Users\MHY\Desktop\광운대\19-1학기\응소실\과제\HW5_프로젝트2\PacketServer\bin\Debug\PacketServer.exe.config
+C:\Users\MHY\Desktop\광운대\19-1학기\응소실\과제\HW5_프로젝트2\PacketServer\obj\Debug\PacketServer.exe
+C:\Users\MHY\Desktop\광운대\19-1학기\응소실\과제\HW5_프로젝트2\PacketServer\obj\Debug\PacketServer.pdb
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\PacketServer\bin\Debug\PacketServer.exe.config
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.exe
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.pdb
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\PacketServer\bin\Debug\PacketServer.exe
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\PacketServer\bin\Debug\PacketServer.pdb
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\PacketServer\bin\Debug\ClassLibrary1.dll
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\PacketServer\bin\Debug\ClassLibrary1.pdb
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.csprojResolveAssemblyReference.cache
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.Form1.resources
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.Properties.Resources.resources
+C:\Users\MHY\Documents\Visual Studio 2015\Projects\PacketServer\obj\Debug\PacketServer.csproj.GenerateResource.Cache
