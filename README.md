@@ -46,7 +46,7 @@
     + 마우스 우클릭 시 클라이언트 화면 모습
     <img src="/Screenshots/option.jpg" width="400">  
     
-    + 자세히, 간단히, 작은아이콘, 큰아이콘 차례대로 4가지 옵션 결과  
+    + 자세히, 간단히, 작은아이콘, 큰아이콘 순으로 차례대로 4가지 옵션 결과  
     <img src="/Screenshots/자세히.JPG" width="400"><img src="/Screenshots/간단히.JPG" width="400">  
     <img src="/Screenshots/작은아이콘.JPG" width="400"><img src="/Screenshots/큰아이콘.JPG" width="400">  
 - 클라이언트의 ListView의 폴더를 더블 클릭 시 폴더로 이동 후 파일 및 폴더 정보를 출력
