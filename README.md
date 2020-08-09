@@ -9,7 +9,7 @@
 > 파일전송  
 
 #### 사용 프로그램 및 프로젝트 출력 형식
-- Visual Studio 2015 
+- Visual Studio 2015 C#
   - ClassLibrary1 : 클래스 라이브러리
   - PacketServer : Windows 응용 프로그램
   - PacketClient : Windows 응용 프로그램
